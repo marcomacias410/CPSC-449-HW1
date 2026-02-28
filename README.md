@@ -29,7 +29,7 @@ PUT http://localhost:8082/api/books/3
 
 ---
 
-## 2️⃣ PATCH – Partial Update
+## PATCH – Partial Update
 
 **Endpoint**
 ```
@@ -57,7 +57,7 @@ PATCH http://localhost:8082/api/books/3
 
 ---
 
-## 3️⃣ DELETE – Remove Book
+## DELETE – Remove Book
 
 **Endpoint**
 ```
@@ -77,7 +77,7 @@ DELETE http://localhost:8082/api/books/3
 
 ---
 
-## 4️⃣ GET – Pagination
+## GET – Pagination
 
 **Endpoint**
 ```
@@ -101,7 +101,7 @@ GET http://localhost:8082/api/books?page=1&size=5
 
 ---
 
-## 5️⃣ Advanced GET – Filtering, Sorting, Pagination
+## Advanced GET – Filtering, Sorting, Pagination
 
 **Endpoint**
 ```
